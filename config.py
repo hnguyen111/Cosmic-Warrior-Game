@@ -1,4 +1,4 @@
-game_name = "INFO1110-Cosmic-Warrior"
+game_name = "Cosmic-Warrior"
 frame_delay = 0.03  # seconds between each frame (0.03 = ~33 fps)
 
 radius = {"spaceship": 12,
